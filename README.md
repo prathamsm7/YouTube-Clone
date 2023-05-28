@@ -21,7 +21,7 @@ Follow the instructions below to get the project up and running on your local ma
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/youtube-clone](https://github.com/prathamsm7/YouTube-Clone).git
+git clone https://github.com/prathamsm7/YouTube-Clone.git
 ```
 
 2. Navigate to the project directory:
